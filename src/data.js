@@ -1,35 +1,27 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Android Task Manager",
+    subtitle: "Android Studio Group Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+      "For my Intro to Software Engineering class I, along with a group of 3 created an all in one task managing app for Android OS. The program is written in Android Studio code with Java.",
+    image: "./andr app.jpg",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "The WatchList",
+    subtitle: "React and Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reedbarger.com",
+      "For my web development class my group created a movie website that displays all new and top rated movies. I worked on the Explore page where users can search for new movies from IMDB API.",
+    image: "./web.JPG",
+    link: "https://the-watch-list.netlify.app/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "CAPTCHA test",
+    subtitle: "Python & Pygame",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "For my system security class I've built a simple CAPTCHA test. I made it with Pygame, an python library to demo my version of a quicker and easier CAPTCHA test.",
     image: "./project-3.gif",
     link: "https://jsbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://pythonbootcamp.com",
   },
 ];
 
@@ -64,4 +56,4 @@ export const experiences = [
   },
 ];
 
-export const skills = ["Java","C","C++","Python","JavaScript","HTML","CSS","Docker","SQL Injection & Buffer Overflow","Jira","Git","Unity Game Engine"];
+export const skills = ["Java","C","C++","Python","JavaScript","HTML","CSS","Docker","Android Studio","Jira","Git","Unity Game Engine", "SQL Injection & Buffer Overflow"];
