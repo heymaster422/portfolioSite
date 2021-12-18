@@ -3,7 +3,7 @@ export const projects = [
     title: "Android Task Manager",
     subtitle: "Android Studio Group Project",
     description:
-      "For my Intro to Software Engineering class I, along with a group of 3 created an all in one task managing app for Android OS. The program is written in Android Studio code with Java.",
+      "For my Intro to Software Engineering class I, along with a group of 3, created an all in one task managing app for Android OS. The program is written in Android Studio code with Java.",
     image: "./andr app.jpg",
     link: "https://reactbootcamp.com",
   },
@@ -20,8 +20,8 @@ export const projects = [
     subtitle: "Python & Pygame",
     description:
       "For my system security class I've built a simple CAPTCHA test. I made it with Pygame, an python library to demo my version of a quicker and easier CAPTCHA test.",
-    image: "./project-3.gif",
-    link: "https://jsbootcamp.com",
+    image: "./captcha.gif",
+    link: "https://github.com/heymaster422/CAPTCHA-test.git",
   },
 ];
 
