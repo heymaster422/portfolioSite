@@ -15,7 +15,7 @@ export default function Experience() {
             <div className="p-4 md:w-1/2 w-full">
 
                 
-              <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
+              <div className="h-full bg-mySilver bg-opacity-40 p-8 rounded">
                 <OfficeBuildingIcon className="block w-8 text-gray-500 mb-4" />
 
               <div className="inline-flex items-center">

@@ -8,7 +8,7 @@ module.exports = {
         'myCharcoal' : '#333333',
         'mySilver' : '#666666',
         'myWhite' : '#F7F7F7',
-        'myEmerald' : '4D9C2D',
+        'myEmerald' : '#4D9C2D',
       }
     },
   },

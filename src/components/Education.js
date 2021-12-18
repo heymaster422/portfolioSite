@@ -13,7 +13,7 @@ export default function Education() {
                 <div className="flex flex-wrap m-4">
                     {educations.map((educations) => (
                         <div className="p-4 md:w-1/2 w-full">
-                            <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded flex">
+                            <div className="h-full bg-mySilver bg-opacity-40 p-8 rounded flex">
 
                                 <div className="mx-auto">
 
